@@ -5,10 +5,10 @@ This project is a vendor performance tracking system built with Django and Djang
 ## Getting Started
 ### Clone the Repository
 - First, clone the repository to your local machine:
-git clone <repository-url>
+git clone https://github.com/Kajal-Yadav31/Vendorproject.git
 
 - Change directory to the project:
-cd <repository-directory>
+cd Vendorproject
 
 
 ## API Endpoints
@@ -46,7 +46,7 @@ URL: /purchase_orders/<int:po_id>/
 Method: GET, PUT, PATCH, or DELETE
 Description: Retrieve, update, or delete a specific purchase order.
 
--** Acknowledge Purchase Order**
+- **Acknowledge Purchase Order**
 
 URL: /purchases/<int:po_id>/acknowledge/
 Method: POST
@@ -57,6 +57,10 @@ Description: Acknowledge a purchase order, updating the acknowledgment date and 
 You can reach out to me via:
 
 Email: kajalyadav070496@gmail.com
+
 LinkedIn: https://www.linkedin.com/in/kajal-yadav31/
+
 GitHub: https://github.com/Kajal-Yadav31
+
 Resume:
+[My_Resume-Kajal Yadav.pdf](https://github.com/user-attachments/files/16837484/My_Resume-Kajal.Yadav.pdf)
